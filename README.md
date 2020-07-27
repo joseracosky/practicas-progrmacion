@@ -1,2 +1,2 @@
 # practicas-progrmacion
- empazamos con githab
+ empazamos con github
